@@ -2,5 +2,5 @@ streamlit
 openai-whisper
 torch
 torchaudio
-ffmpeg-python
+ffmpeg
 numpy
